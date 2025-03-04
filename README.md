@@ -14,8 +14,8 @@ Skrip ini akan:
 ## 📥 **Cara Instalasi**
 ### 1️⃣ Clone Repository  
 ```bash
-git clone https://github.com/USERNAME/danom-auto-installer.git
-cd danom-auto-installer
+git clone https://github.com/sipalingtestnet/danom.git
+cd danom
 ```
 
 ### 2️⃣ Beri Izin Eksekusi  
